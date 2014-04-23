@@ -2,7 +2,11 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link rel="stylesheets" href="{{ site.baseurl }}/_/css/main.css">
+		<link rel="stylesheets" href="{{ site.baseurl }}/assets/css/main.css">  <!--Since this is a template, it needs to be a root-relative link-->
+		 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap-theme.css">
+		<script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.js"></script>
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/modernizr-2.6.2.min.js"></script>
 		
 	</head>
 
