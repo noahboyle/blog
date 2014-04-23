@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="birth" role="main">
+{{content}}
+</div>
+
+<div class="youth" role="complimentary">
+	{% for post in site.categories.[page.project] %}  <!--site is a global parameter for the entire project folder, wheras page is a way to output posts from said page-->
+			{% if forloop.first %}
+			<ul class="postList">
+			{% endif %}  <!--this makes it so that if a project doesn't have any posts in it, then no code will be outputted-->
+				<li class="post">
+					<a href="{{ site.baseurl }}{{ post.url }}">
+						{{ post.title }}
+			{% if forloop.last %}
+			</ul>
+			{% endif %}
+	{% endfor %}
+</div>
