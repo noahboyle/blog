@@ -1,12 +1,12 @@
 ---
-title: "Starting Project 1"
-date: 2014-04-23 13:49:17
+title: "Week 1"
+date: 2014-01-23 13:49:17
 categories:
-- project-1
+- internet
 - web-design
-tags: [process work] 
+tags: [web stuff] 
 ---
 
-# Project 1 - Enoch Pratt
+# HELLO MONDAY - MEGRITTE SITE
 
 My first project
