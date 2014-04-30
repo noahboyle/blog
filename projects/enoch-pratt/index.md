@@ -11,4 +11,4 @@ project: project-01
 
 # PROCESS
 
-![week 1](http://i.imgur.com/AMCx44H.jpg?1111233/300/300)
+![week 1](http://i.imgur.com/AMCx44H.jpg/300/300)
