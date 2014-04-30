@@ -5,8 +5,10 @@ layout: projects
 project: project-01  
 ---
 
-# Hello Enoch Pratt
+# ENOCH PRATT PROJECT 
 
-lorem ipsum
+<http://noahboyle.github.io/project-01/>
 
-![my enoch cat](http://placekitten.com/300/300)
+# PROCESS
+
+![week 1](http://i.imgur.com/AMCx44H.jpg?1111233/300/300)
