@@ -345,7 +345,7 @@ grid system
   margin-left: auto;
   padding-left: 50px;
   padding-right: 50px;
-  margin-top: 0.5em;
+  padding-top: 0.5em;
 }
 @media (min-width: 768px) {
   .container {
