@@ -110,13 +110,18 @@ font-size: 3em;
 }
 
 h2 {
-color: green;
+color: purple;
 
 }
 
 
+.time{
+	color: #FF5498;
+}
 
-
+#time{
+	color: #FF5498;
+}
 
 
 
