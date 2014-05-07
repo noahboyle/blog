@@ -6,8 +6,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel='stylesheet' href='{{ site.baseurl }}/assets/fonts/arq.css' 'text/css'>
-		<link rel='stylesheet' href='{{ site.baseurl }}/assets/css/main.css' type='text/css'>  <!--Since this is a template, it needs to be a root-relative link-->
+		<link rel='stylesheet' href='{{ site.baseurl }}/assets/fonts/arq.css' type='text/css'>
+		<link rel='stylesheet' href='{{ site.baseurl }}/assets/css/main.css' type='text/css'>  
+		<link rel="stylesheet" href='{{ site.baseurl }}/assets/css/normalize.css' type='text/css'> 
         <script type='text/javascript' src='{{ site.baseurl }}/assets/js/vendor/modernizr-2.6.2.min.js'></script>
         
         		
@@ -17,4 +18,8 @@
 		
 		{{ content }}  <!--content is a specia lreserved word in liquid which means to take everything from our templaste page into this page-->
 	</body>
+	
+	    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
 </html>
