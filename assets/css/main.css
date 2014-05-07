@@ -117,6 +117,7 @@ color: purple;
 
 time{
 	color: #FF5498;
+	font-size: 0.8em;
 }
 
 h2.time{
@@ -130,6 +131,7 @@ h2.time{
 
 .nav{
 	padding-left: -15px;
+	line-height: 1.2;
 	
 }
 
