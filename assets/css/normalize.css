@@ -124,15 +124,15 @@ a:hover {
  */
 
 h1 {
-  font-size: 3em;
+  font-size: 2.8em;
   margin: 0.5em 0; 
   font-family: "ArquitectaMedium", Helvetica, Arial, sans-serif;
   }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin: 0.83em 0; 
-   font-family: "ArquitectaThin", Helvetica;
+   font-family: "ArquitectaLight", Helvetica;
    
   }
 
