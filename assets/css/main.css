@@ -345,7 +345,7 @@ grid system
   margin-left: auto;
   padding-left: 50px;
   padding-right: 50px;
-  padding-top: 0.5em;
+  padding-top: 4em;
 }
 @media (min-width: 768px) {
   .container {
@@ -873,7 +873,7 @@ grid system
     width: 58.33333333%;
   }
   .col-lg-6 {
-    width: 49%;
+    width: 47%;
   }
   .col-lg-5 {
     width: 41.66666667%;
