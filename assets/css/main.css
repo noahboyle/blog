@@ -102,20 +102,16 @@ font-family: 'ArquitectaMedium', helvetica, sans-serif;
 }
 
 h1 {
-color: pink;
+color: blue;
 font-weight: 400;
 margin-top: 30px;
 margin-left: 15px;
-font-size: 30px;
+font-size: 3em;
 }
 
 h2 {
-color: pink;
-font-weight: 400;
-margin-top: 30px;
-margin-left: 15px;
-font-size: 30px;
-font-family: 'Helvetica';
+color: green;
+
 }
 
 
@@ -329,8 +325,8 @@ grid system
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 @media (min-width: 768px) {
   .container {
