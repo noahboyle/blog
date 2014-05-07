@@ -129,13 +129,18 @@ h2.time{
 }
 
 .nav{
-	
+	padding-left: -15px;
 	
 }
 
 ul
 {
     list-style-type: none;
+}
+
+header{
+	
+	padding: -15px;
 }
 
 
