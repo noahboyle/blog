@@ -321,12 +321,13 @@ h2.time{
         page-break-after: avoid;
     }
 }
+.list postList{
+	width: 80%;
+	
+}
 
 .nav{
-	position: absolute;
-	bottom: 5em;
-	right: 0.2em;
-	z-index: 9000;
+	width: 20%;
 	
 }
 
