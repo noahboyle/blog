@@ -11,11 +11,12 @@ title: Jekyll Test Site
 	{% for post in site.posts %}  
 	<article>
 	<!--Takes unix time and puts it into a more readable format-->
-		<time>{{ post.date | date_to_string }}</time>
+		
 		<h2>
 			<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}"> <!--This signifies structure-->
 				{{ post.title }}  <!--This signifies content to be created-->
-				</a> 
+				</a>
+			<time>{{ post.date | date_to_string }}</time>	 
 		</h2>
 	</article>
 	{% endfor %}
