@@ -322,6 +322,12 @@ h2.time{
     }
 }
 
+.nav{
+	position: relative;
+	right: 50px;
+	
+}
+
 /*------------------
 grid system
 */
@@ -329,8 +335,8 @@ grid system
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 @media (min-width: 768px) {
   .container {
