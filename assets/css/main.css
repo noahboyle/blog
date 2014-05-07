@@ -149,3 +149,34 @@ list{
   font-family: inherit;
   font-size: inherit;
   line-height: inherit; }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    body {
+	font-family: 'ArquitectaMedium', helvetica, sans-serif;
+	}
+
+h1 {
+	color: pink;
+	font-weight: 400;
+	margin-top: 30px;
+	margin-left: 15px;
+	font-size: 30px;
+	}
+
+h2 {
+	color: pink;
+	font-weight: 400;
+	margin-top: 30px;
+	margin-left: 15px;
+	font-size: 30px;
+	font-family: 'Helvetica';
+	}
+	
+
