@@ -323,9 +323,9 @@ h2.time{
 }
 
 .nav{
-	position: relative;
+	position: absolute;
 	right: 1em;
-	bottom: 3em;
+	
 	
 }
 
