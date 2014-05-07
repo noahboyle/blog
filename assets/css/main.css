@@ -165,6 +165,10 @@ body {background-color:pink;}
 	width: 600px;
 }
 
+.birth p{
+	line-height: 1.2;
+	width: 500px;
+}
 
 /* ==========================================================================
    Helper classes
@@ -356,6 +360,7 @@ body {background-color:pink;}
         page-break-after: avoid;
     }
 }
+
 
 
 /*------------------
