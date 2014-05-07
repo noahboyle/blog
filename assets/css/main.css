@@ -333,6 +333,7 @@ body {background-color:pink;}
     tr,
     img {
         page-break-inside: avoid;
+        width: 50%;
     }
 
     img {
