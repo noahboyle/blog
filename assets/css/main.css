@@ -123,7 +123,20 @@ h2.time{
 	color: #FF5498;
 }
 
+.list postList{
+	
+	
+}
 
+.nav{
+	
+	
+}
+
+ul
+{
+    list-style-type: none;
+}
 
 
 
@@ -321,15 +334,7 @@ h2.time{
         page-break-after: avoid;
     }
 }
-.list postList{
-	width: 80%;
-	
-}
 
-.nav{
-	
-	
-}
 
 /*------------------
 grid system
@@ -340,6 +345,7 @@ grid system
   margin-left: auto;
   padding-left: 50px;
   padding-right: 50px;
+  margin-top: 0.5em;
 }
 @media (min-width: 768px) {
   .container {
